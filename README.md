@@ -269,7 +269,7 @@ def create_app(test_config=None):
     return app
 ```
 
-**Run our Flask server, to test**
+**Run our Flask server to test**
 ```
 export FLASK_APP = twitter_api
 export FLASK_ENV = development
